@@ -26,8 +26,8 @@ function adicionarAmigo(){
     inputAmigo.ariaValu = "";
 
     //Atualizar a lista no HTML
-    atualizarLista();
-
-
+    atualizarLista(); 
 
 }
+
+//função para atulizar a lista de amigos da interface 
